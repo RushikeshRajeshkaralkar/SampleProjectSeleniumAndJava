@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="658688" started-at="2019-12-31T13:42:30Z" finished-at="2019-12-31T13:53:28Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="658688" started-at="2019-12-31T13:42:30Z" finished-at="2019-12-31T13:53:28Z">
+      <class name="Test.Flipkart_Serach">
+        <test-method status="PASS" signature="MobilePrice()[pri:0, instance:Test.Flipkart_Serach@3632be31]" name="MobilePrice" duration-ms="427673" started-at="2019-12-31T13:42:30Z" finished-at="2019-12-31T13:49:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobilePrice -->
+      </class> <!-- Test.Flipkart_Serach -->
+      <class name="Test.DateAndTimePicker">
+        <test-method status="PASS" signature="testDAtePicker()[pri:0, instance:Test.DateAndTimePicker@2286778]" name="testDAtePicker" duration-ms="67631" started-at="2019-12-31T13:52:21Z" finished-at="2019-12-31T13:53:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDAtePicker -->
+      </class> <!-- Test.DateAndTimePicker -->
+      <class name="Test.classby">
+        <test-method status="PASS" signature="classbymethod()[pri:0, instance:Test.classby@5abca1e0]" name="classbymethod" duration-ms="163287" started-at="2019-12-31T13:49:37Z" finished-at="2019-12-31T13:52:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classbymethod -->
+      </class> <!-- Test.classby -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
